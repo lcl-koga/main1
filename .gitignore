@@ -48,3 +48,17 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+.idea/.generators
+.idea/.name
+.idea/.rakeTasks
+.idea/encodings.xml
+.idea/main1.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/runConfigurations/Development__main1.xml
+.idea/runConfigurations/Production__main1.xml
+.idea/runConfigurations/spec__main1.xml
+.idea/runConfigurations/test__main1.xml
+.idea/scopes/scope_settings.xml
